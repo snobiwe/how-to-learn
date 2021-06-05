@@ -1,0 +1,10 @@
+.footer__column_content_copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 252px;
+    /*justify-self: flex-start;*/
+    flex-basis: 711px;
+    /*border: pink 1px solid;*/
+    position: relative;
+}

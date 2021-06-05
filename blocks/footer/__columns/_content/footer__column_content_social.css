@@ -1,0 +1,6 @@
+.footer__column_content_social {
+    display: flex;
+    flex-direction: column;
+   /* border: turquoise 1px solid;*/
+    position: relative;
+}

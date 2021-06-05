@@ -1,0 +1,6 @@
+.description {
+    display: flex;
+    width: 100%;
+    /*border: rgb(255, 0, 170);*/
+    justify-content: space-around;
+  }

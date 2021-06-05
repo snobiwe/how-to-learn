@@ -1,0 +1,10 @@
+.two-columns__main-text {
+    max-width: 80%;
+    min-width: 784px;
+    margin: 0;
+    flex-direction: column;
+    align-items: space-between;
+    line-height: 34px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 24px;
+  }

@@ -1,0 +1,10 @@
+.logo_place_header {
+    /*display: flex;
+    justify-self: flex-start;*/
+    position: absolute;
+    top: 30px;
+    left: 64px;
+    margin: 0;
+    width: 183px;
+    height: 35px;
+}

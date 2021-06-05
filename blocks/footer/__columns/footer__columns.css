@@ -1,0 +1,9 @@
+.footer__columns {
+    /*border: black 1px solid;*/
+    display: flex;
+    flex-direction: row;
+    flex-basis: 711px;
+    justify-content: space-around;
+    /*margin: 60x auto 40px;*/
+    position: relative;
+}
