@@ -3,7 +3,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/section/__table/section__table.css);
+@import url(../blocks/page/__table/page__table.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -77,7 +77,7 @@
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__columns/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__navigation/footer__navigation.css);
-@import url(../blocks/footer/__list-item/footer__list-link.css);
+@import url(../blocks/footer/__list-link/footer__list-link.css);
 @import url(../blocks/footer/__columns/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__columns/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
