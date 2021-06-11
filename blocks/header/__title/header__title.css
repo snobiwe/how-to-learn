@@ -1,7 +1,7 @@
 .header__title {
     align-self: center;
     width: 730px;
-    margin-left: 64px;
+    margin: 0 0 0 64px;
     line-height: 96px;
     font-size: 102px;
     font-weight: 700;
